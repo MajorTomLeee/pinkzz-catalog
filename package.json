@@ -1,0 +1,10 @@
+{
+  "name": "pinkzz-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "check": "node --check scripts/sync.mjs"
+  }
+}
