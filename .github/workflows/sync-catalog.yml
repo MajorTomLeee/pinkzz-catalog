@@ -1,0 +1,38 @@
+name: 更新公开期刊目录
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: 拉取公开目录
+        run: npm run sync
+      - name: 校验生成结果
+        run: node -e "const d=require('./catalog.json'); if(!d.items || d.items.length < 20) process.exit(1)"
+      - name: 提交发生变化的目录
+        run: |
+          if git diff --quiet -- catalog.json; then
+            echo "目录没有变化"
+            exit 0
+          fi
+          git config user.name "Pinkzz Catalog Bot"
+          git config user.email "catalog-bot@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "chore: 更新期刊目录"
+          git push
