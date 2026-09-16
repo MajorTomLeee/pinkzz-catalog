@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T02:09:23.385Z",
+  "generatedAt": "2026-09-16T10:26:15.625Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
       "sourceKey": "cn-rural-economy",
       "ok": true,
-      "count": 9,
-      "issue": "2026年 第7期"
+      "count": 3,
+      "issue": "2026年 第8期"
     },
     {
       "sourceKey": "economic-management",
@@ -351,6 +351,63 @@
       "rightsStatus": "source_download"
     },
     {
+      "id": "ncp-zgncjj2026008002",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "“三链协同”何以可能：返乡入乡创业者赋能乡村产业振兴的逻辑与路径",
+      "sourceName": "中国农村经济",
+      "author": "徐凤增、王展翼、冯立莉",
+      "issue": "2026年 第8期",
+      "publishedAt": "2026-08-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026008002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026008002",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026008004",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "地方财政紧平衡压力与县域规模性返贫风险防范——兼论数字监督的调节效应",
+      "sourceName": "中国农村经济",
+      "author": "何欣、陈泰岭、王海军",
+      "issue": "2026年 第8期",
+      "publishedAt": "2026-08-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026008004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026008004",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026008006",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "基本公共服务水平提升何以促进农村人口迁移——基于中国县域的理论与实证分析",
+      "sourceName": "中国农村经济",
+      "author": "杨沫、高英杰、王岩",
+      "issue": "2026年 第8期",
+      "publishedAt": "2026-08-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026008006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026008006",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-czyj2026008001",
       "sourceKey": "public-finance-research",
       "itemType": "paper",
@@ -604,174 +661,6 @@
       "tags": [
         "AI与组织",
         "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007001",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "作为生产关系变革的农业转移人口市民化—个政治经济学分析",
-      "sourceName": "中国农村经济",
-      "author": "齐秀琳",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007001",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007002",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "推进农业转移人口市民化的关键秷桔与长效机制",
-      "sourceName": "中国农村经济",
-      "author": "梅建明、张吉桔、吴煜卓、邵鹏程",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007002",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007003",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "新型简约治理：中国式乡村善治中的标识性概念探索",
-      "sourceName": "中国农村经济",
-      "author": "樊凡",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007003",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007004",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "高标准农田建设全生命周期中的问题识别及“十五五”时期的推进路径—基千193份审计工作报告的文本分析",
-      "sourceName": "中国农村经济",
-      "author": "温格昊、张蚌蚌、霍学喜",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007004",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007005",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "中国县域健共体发展：理论逻辑、现状评估与路径探析",
-      "sourceName": "中国农村经济",
-      "author": "董艳玲、王谦、宋颜群、王哲",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007005",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007006",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "从“老有所虑”到“老有所养”：村级居家养老服务中心建设的养老风险感知消减效应",
-      "sourceName": "中国农村经济",
-      "author": "刘金凤、陆万军、张彬斌",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007006",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007007",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "中国省域农业资本投资回报率测算—兼论社会资本持续投资农业的动因",
-      "sourceName": "中国农村经济",
-      "author": "李泽媛、巩前文",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007007",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007008",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "从农地确权到规模化经营：金融支持农业发展的效应与机制",
-      "sourceName": "中国农村经济",
-      "author": "张博尧、高明",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007008",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-zgncjj2026007009",
-      "sourceKey": "cn-rural-economy",
-      "itemType": "paper",
-      "title": "美国“对等关税”对中国农产品进口格局的影响—基千三维框架的GTAP多情景模拟",
-      "sourceName": "中国农村经济",
-      "author": "李辉尚、沈海青、刘春苗、代辛",
-      "issue": "2026年 第7期",
-      "publishedAt": "2026-07-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026007009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026007009",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
