@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T02:09:37.557Z",
+  "generatedAt": "2026-09-20T10:14:37.818Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -30,8 +30,8 @@
     {
       "sourceKey": "world-economy",
       "ok": true,
-      "count": 7,
-      "issue": "2026年 第8期"
+      "count": 8,
+      "issue": "2025年 第12期"
     },
     {
       "sourceKey": "financial-research",
@@ -638,136 +638,6 @@
       "publishedAt": "2026-08-01",
       "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008007",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008001",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "金融科技创新与企业跨国供应链拓展",
-      "sourceName": "世界经济",
-      "author": "李震、柴范、方一安、赵春明",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008001",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008002",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "跨境电商如何赋能“边缘企业”实现出口突围",
-      "sourceName": "世界经济",
-      "author": "吴可心、邱斌、孙少勤",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008002",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008003",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "新供给创造新需求：市场准入负面清单的消费提振效应研究",
-      "sourceName": "世界经济",
-      "author": "谢贞发、郭晨阳、罗芳勇",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008003",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008004",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "撤县设区是否能促进市场整合：来自异地分支机构的证据",
-      "sourceName": "世界经济",
-      "author": "黄玖立、张文豪、张玉书",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008004",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008005",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "中国ESG研究中的数据分歧与误差校正",
-      "sourceName": "世界经济",
-      "author": "范子英、谭伟杰、孙俊秀、郭峰",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008005",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008006",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "公共文化资源普惠化与居民幸福感：基于博物馆发展的证据",
-      "sourceName": "世界经济",
-      "author": "谭靖琢、黄勔、赵国昌",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008006",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026008007",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "生成式人工智能如何影响中国劳动力薪资",
-      "sourceName": "世界经济",
-      "author": "郑世林、黄晴、朱丽",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026008007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026008007",
       "category": "AI与组织",
       "tags": [
         "AI与组织",
@@ -1592,6 +1462,154 @@
       "tags": [
         "资本市场",
         "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012001",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "建立互利共赢的标准化合作伙伴关系：来自全球标准协调的证据",
+      "sourceName": "世界经济",
+      "author": "侯俊军、丁琪琪、岳有福、叶家柏",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012001",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012002",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "全球产业链供应链路径测度分析：兼论“一带一路”作用",
+      "sourceName": "世界经济",
+      "author": "沈国兵、沈彬朝",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012002",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012003",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "人力资本、技术进步与产业链安全",
+      "sourceName": "世界经济",
+      "author": "张亮、邱斌、符大海、周上尧",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012003",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012004",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "数字服务税、市场机会与数字型跨境并购",
+      "sourceName": "世界经济",
+      "author": "马述忠、陈逸凡、吴鹏",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012004",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012005",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "跨国资本流动与经济增长：技术溢出与要素配置视角的分析",
+      "sourceName": "世界经济",
+      "author": "陈朴、王睿贤、刘元春",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012005",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012006",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "金融基础设施激活数据要素潜能：来自央行信用报告的证据",
+      "sourceName": "世界经济",
+      "author": "周博、梁蕴佳",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012006",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012007",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "银行金融科技赋能绿色治理：来自环境信息质量提升的证据",
+      "sourceName": "世界经济",
+      "author": "张景静、胡金焱",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012007",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2025012008",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "企业数字化迎合与经营绩效",
+      "sourceName": "世界经济",
+      "author": "胡海峰、窦斌、赵加良、张玮艺",
+      "issue": "2025年 第12期",
+      "publishedAt": "2025-12-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2025012008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2025012008",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
         "最新一期"
       ],
       "rightsStatus": "source_download"
