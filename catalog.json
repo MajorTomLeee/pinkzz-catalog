@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T11:44:39.280Z",
+  "generatedAt": "2026-09-29T17:11:35.887Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -36,7 +36,7 @@
     {
       "sourceKey": "financial-research",
       "ok": true,
-      "count": 9,
+      "count": 11,
       "issue": "2026年 第7期"
     },
     {
@@ -1168,6 +1168,25 @@
       "rightsStatus": "source_download"
     },
     {
+      "id": "ncp-jryj2026007009",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "信贷扩张、供应链传导与企业就业",
+      "sourceName": "金融研究",
+      "author": "王贤彬、陈可瑜",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007009",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-jryj2026007010",
       "sourceKey": "financial-research",
       "itemType": "paper",
@@ -1178,6 +1197,25 @@
       "publishedAt": "2026-07-01",
       "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007010",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007011",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "并购数字企业如何影响创新——基于专利结构演化的视角",
+      "sourceName": "金融研究",
+      "author": "罗知、汪洋子、王怡静、丁宇澄",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007011&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007011",
       "category": "企业管理",
       "tags": [
         "企业管理",
