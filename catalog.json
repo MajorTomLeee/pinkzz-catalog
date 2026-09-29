@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T03:07:14.304Z",
+  "generatedAt": "2026-09-29T11:44:39.280Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -36,8 +36,8 @@
     {
       "sourceKey": "financial-research",
       "ok": true,
-      "count": 11,
-      "issue": "2026年 第6期"
+      "count": 9,
+      "issue": "2026年 第7期"
     },
     {
       "sourceKey": "public-finance-research",
@@ -1017,6 +1017,176 @@
       "rightsStatus": "source_download"
     },
     {
+      "id": "ncp-jryj2026007001",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "中央银行流动性供给机制与货币政策精准调控",
+      "sourceName": "金融研究",
+      "author": "张成思、何启志、刘泽豪",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007001",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007002",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "中国货币政策的要素收入分配效应研究——基于劳动力市场与金融市场双重摩擦视角",
+      "sourceName": "金融研究",
+      "author": "范志勇、安戈洋、杨怡璇",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007002",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007003",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "存款保险制度、显性储蓄安全与金融稳定",
+      "sourceName": "金融研究",
+      "author": "王擎、姚帅、苏育洲",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007003",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007004",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "保险资金入市的创新驱动效应：发展“耐心资本”的视角",
+      "sourceName": "金融研究",
+      "author": "王修华、梁中旗、刘锦华",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007004",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007005",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "科创债发行的行业溢出效应——来自债券发行定价的证据",
+      "sourceName": "金融研究",
+      "author": "刘颖斐、李豪飞、林晚发、祝小全",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007005",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007006",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "信息不对称、气候适应性投资缺口与金融监管政策应对",
+      "sourceName": "金融研究",
+      "author": "陈国进、赵宇磊、赵向琴",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007006",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007007",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "气候物理冲击、地方债务风险与实体经济波动",
+      "sourceName": "金融研究",
+      "author": "丁攀、李力、李向阳",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007007",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007008",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "政府数字化转型与企业脱虚返实——基于企业投资结构偏向的分析",
+      "sourceName": "金融研究",
+      "author": "王傲、孙伟增、张齐林、彭俞超",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007008",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jryj2026007010",
+      "sourceKey": "financial-research",
+      "itemType": "paper",
+      "title": "企业背景有限合伙人能够提供耐心资本吗？——来自我国私募股权市场的证据",
+      "sourceName": "金融研究",
+      "author": "周翔翼、姚瑶",
+      "issue": "2026年 第7期",
+      "publishedAt": "2026-07-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026007010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026007010",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-hjyj2026006001",
       "sourceKey": "accounting-research",
       "itemType": "paper",
@@ -1257,211 +1427,6 @@
       "tags": [
         "企业管理",
         "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006001",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "资产价格与通胀感知偏差——基于数字金融发展的再思考",
-      "sourceName": "金融研究",
-      "author": "刘珺、康立、丁雨婷",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006001",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006002",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "开“前门”是否有助堵“后门”？——地方政府专项债务发行对隐性债务举借的影响",
-      "sourceName": "金融研究",
-      "author": "孟源祎、聂卓、马光荣、赵耀红",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006002",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006003",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "双向奔赴：地级市专项债投资与省级五年规划",
-      "sourceName": "金融研究",
-      "author": "吴敏、冯帆、毛捷、柏金春",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006003",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006004",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "针对地方政府违规举债问题的公开问责有效吗？——来自地方融资平台有息负债的证据",
-      "sourceName": "金融研究",
-      "author": "邱志刚、张志林、王子悦",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006004",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006005",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "企业前瞻性转型风险与隐含权益资本成本——基于净零排放投资组合的视角",
-      "sourceName": "金融研究",
-      "author": "魏杰、吴笑涵、孔东民",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006005",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006006",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "企业组织形态的税收洼地效应",
-      "sourceName": "金融研究",
-      "author": "鲁元平、贺天祥、赵颖、崔小勇",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006006",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006007",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "司法专业化、债权保护与商业信用发展——来自审执分离改革的证据",
-      "sourceName": "金融研究",
-      "author": "赵仁杰、程旭翀、杜诚",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006007",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006008",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "产融合作试点、融资信心提振与劳动关系优化——来自裁判文书大数据的证据",
-      "sourceName": "金融研究",
-      "author": "徐照宜、巩冰、杨斯尧、许思扬",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006008",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006009",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "数字信用与家庭经济风险：护城河还是风险敞口？",
-      "sourceName": "金融研究",
-      "author": "宋全云、黎多毅、程瑞祺",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006009",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006010",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "科技创新债券发行对承销商业绩的溢出效应",
-      "sourceName": "金融研究",
-      "author": "史永东、张曦仁、陈火亮、甄红线",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006010",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jryj2026006011",
-      "sourceKey": "financial-research",
-      "itemType": "paper",
-      "title": "绳愆纠谬：IPO现场督导制度对保荐机构的治理效应",
-      "sourceName": "金融研究",
-      "author": "薛爽、高琪、王禹",
-      "issue": "2026年 第6期",
-      "publishedAt": "2026-06-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JRYJ2026006011&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JRYJ2026006011",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
         "最新一期"
       ],
       "rightsStatus": "source_download"
