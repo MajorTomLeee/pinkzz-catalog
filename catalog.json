@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T10:48:49.121Z",
+  "generatedAt": "2026-10-14T16:07:27.985Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -41,10 +41,9 @@
     },
     {
       "sourceKey": "public-finance-research",
-      "ok": false,
+      "ok": true,
       "count": 7,
-      "issue": "2026年 第8期",
-      "error": "The operation was aborted due to timeout"
+      "issue": "2026年 第8期"
     },
     {
       "sourceKey": "china-economic-quarterly",
@@ -528,7 +527,7 @@
       "author": "王艺明、曾卓尔",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzazhQMTZBMW16ekcycmJMbW5penBhWmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008001",
       "category": "资本市场",
       "tags": [
@@ -546,7 +545,7 @@
       "author": "陈云贤、王方方、邹方斌",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzdmhvbWU3M0pWM1h1TGYrbmh0NEZMRmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008002",
       "category": "资本市场",
       "tags": [
@@ -564,7 +563,7 @@
       "author": "张苏皖、刘元生、李建军",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzdWV0MkM3c1IwWFpwaTdnTWVURGJXRmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008003",
       "category": "资本市场",
       "tags": [
@@ -582,7 +581,7 @@
       "author": "王立勇、张鑫",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzbSt4dk5pU29RVGZSNVdHT3cxa3VDZGlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008004",
       "category": "企业管理",
       "tags": [
@@ -601,7 +600,7 @@
       "author": "毛晖、张泽丰、陶东杰",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzc2h1c2w3NWhMRkV1WE14WjlmcGs3TmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008005",
       "category": "资本市场",
       "tags": [
@@ -619,7 +618,7 @@
       "author": "吴子硕、尹志超、刘嘉怡",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzaHdnK3NOVjIyUFJOUnNNUGJkWWwwOWlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008006",
       "category": "资本市场",
       "tags": [
@@ -637,7 +636,7 @@
       "author": "李昊楠、李一博",
       "issue": "2026年 第8期",
       "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026008007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "originalUrl": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=UlRzaHZ6cXplOVJnOFhLdVIxMXJzbittY0srTjJNdGZXUjlWVTZHUUV5TmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026008007",
       "category": "AI与组织",
       "tags": [
