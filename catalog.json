@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T02:03:10.893Z",
+  "generatedAt": "2026-10-16T10:17:34.807Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -30,7 +30,7 @@
     {
       "sourceKey": "world-economy",
       "ok": true,
-      "count": 2,
+      "count": 8,
       "issue": "2026年 第9期"
     },
     {
@@ -54,6 +54,80 @@
   ],
   "items": [
     {
+      "id": "ncp-sjjj2026009001",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "高水平对外开放的理论内涵、特色与创新",
+      "sourceName": "世界经济",
+      "author": "洪俊杰",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009001",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026009002",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "免签政策与外商直接投资：来自企业注册数据的证据",
+      "sourceName": "世界经济",
+      "author": "田毕飞、曾润龙、唐银山",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009002",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026009003",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "“共享共赢”：基于共享供应商的FDI溢出效应研究",
+      "sourceName": "世界经济",
+      "author": "严兵、吴琦琦",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009003",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026009004",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "量价混合还是数量淡出：中国货币政策框架转型研究",
+      "sourceName": "世界经济",
+      "author": "张成思、廖闻亭、韩杨",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009004",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-sjjj2026009005",
       "sourceKey": "world-economy",
       "itemType": "paper",
@@ -68,6 +142,43 @@
       "tags": [
         "资本市场",
         "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026009006",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "地方化债组合政策与资本市场反馈",
+      "sourceName": "世界经济",
+      "author": "聂婧、李永友",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009006",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026009007",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "耐用品价格补贴与家庭消费行为：家电以旧换新的证据",
+      "sourceName": "世界经济",
+      "author": "张庆、宋弘、李云鹏、楼平易",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009007",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
