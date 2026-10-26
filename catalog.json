@@ -1,55 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T11:47:10.038Z",
+  "generatedAt": "2026-10-26T17:57:04.112Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
       "sourceKey": "cn-rural-economy",
-      "ok": true,
+      "ok": false,
       "count": 9,
-      "issue": "2026年 第9期"
+      "issue": "2026年 第9期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "economic-management",
-      "ok": true,
+      "ok": false,
       "count": 9,
-      "issue": "2026年 第8期"
+      "issue": "2026年 第8期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "accounting-research",
-      "ok": true,
+      "ok": false,
       "count": 14,
-      "issue": "2026年 第7期"
+      "issue": "2026年 第7期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "economic-research",
-      "ok": true,
+      "ok": false,
       "count": 11,
-      "issue": "2026年 第8期"
+      "issue": "2026年 第8期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "world-economy",
-      "ok": true,
+      "ok": false,
       "count": 8,
-      "issue": "2026年 第9期"
+      "issue": "2026年 第9期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "financial-research",
-      "ok": true,
+      "ok": false,
       "count": 11,
-      "issue": "2026年 第7期"
+      "issue": "2026年 第7期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "public-finance-research",
-      "ok": true,
+      "ok": false,
       "count": 7,
-      "issue": "2026年 第8期"
+      "issue": "2026年 第8期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "china-economic-quarterly",
-      "ok": true,
+      "ok": false,
       "count": 16,
-      "issue": "2026年 第4期"
+      "issue": "2026年 第4期",
+      "error": "The operation was aborted due to timeout"
     }
   ],
   "items": [
