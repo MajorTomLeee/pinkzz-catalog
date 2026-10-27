@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T16:58:38.903Z",
+  "generatedAt": "2026-10-27T21:33:39.221Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -24,7 +24,7 @@
     {
       "sourceKey": "economic-research",
       "ok": true,
-      "count": 7,
+      "count": 11,
       "issue": "2026年 第9期"
     },
     {
@@ -42,7 +42,7 @@
     {
       "sourceKey": "public-finance-research",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "issue": "2026年 第9期"
     },
     {
@@ -238,6 +238,25 @@
       "rightsStatus": "source_download"
     },
     {
+      "id": "ncp-jjyj2026009002",
+      "sourceKey": "economic-research",
+      "itemType": "paper",
+      "title": "机器人应用与制造业企业生产链延伸——基于稳链强链视角的考察",
+      "sourceName": "经济研究",
+      "author": "吴腊梅、彭水军、张亮、周上尧",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJYJ2026009002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJYJ2026009002",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-jjyj2026009003",
       "sourceKey": "economic-research",
       "itemType": "paper",
@@ -251,6 +270,60 @@
       "category": "企业管理",
       "tags": [
         "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjyj2026009004",
+      "sourceKey": "economic-research",
+      "itemType": "paper",
+      "title": "个人情绪传播与平台信息治理",
+      "sourceName": "经济研究",
+      "author": "柯荣住、黄佳琦",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJYJ2026009004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJYJ2026009004",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjyj2026009005",
+      "sourceKey": "economic-research",
+      "itemType": "paper",
+      "title": "供给侧结构性改革的扩内需效应——基于信息消费示范城市建设的分析",
+      "sourceName": "经济研究",
+      "author": "彭冲、孙伟增、易行健",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJYJ2026009005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJYJ2026009005",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjyj2026009006",
+      "sourceKey": "economic-research",
+      "itemType": "paper",
+      "title": "中国对外基础设施投资的经济效应与微观作用机制——来自非洲发展走廊项目的证据",
+      "sourceName": "经济研究",
+      "author": "李涵、周倩、李超",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJYJ2026009006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJYJ2026009006",
+      "category": "企业管理",
+      "tags": [
         "企业管理",
         "最新一期"
       ],
@@ -382,6 +455,24 @@
       "tags": [
         "AI与组织",
         "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-czyj2026009003",
+      "sourceKey": "public-finance-research",
+      "itemType": "paper",
+      "title": "国有资本经营预算的理论再认识与制度重构",
+      "sourceName": "财政研究",
+      "author": "肖鹏、刘浩",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=CZYJ2026009003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=CZYJ2026009003",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
         "最新一期"
       ],
       "rightsStatus": "source_download"
