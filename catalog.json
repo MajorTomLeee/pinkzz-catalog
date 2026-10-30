@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T11:48:47.592Z",
+  "generatedAt": "2026-10-30T17:27:04.383Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -11,9 +11,10 @@
     },
     {
       "sourceKey": "economic-management",
-      "ok": true,
+      "ok": false,
       "count": 9,
-      "issue": "2026年 第8期"
+      "issue": "2026年 第8期",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "sourceKey": "accounting-research",
