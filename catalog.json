@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T03:44:26.924Z",
+  "generatedAt": "2026-11-04T13:26:07.815Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -12,8 +12,8 @@
     {
       "sourceKey": "economic-management",
       "ok": true,
-      "count": 9,
-      "issue": "2026年 第8期"
+      "count": 5,
+      "issue": "2026年 第9期"
     },
     {
       "sourceKey": "accounting-research",
@@ -215,6 +215,100 @@
       "category": "农商管理",
       "tags": [
         "农商管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009001",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "人工智能时代中国管理学自主知识体系构建路径探析",
+      "sourceName": "经济管理",
+      "author": "吴照云、李通",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009001",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009002",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "零工经济、劳动力流转与制造业资本深化——基于网约车平台兴起的实证研究",
+      "sourceName": "经济管理",
+      "author": "蔡庆丰、黄蕾、谭伟晟",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009002",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009003",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "全球供应链嵌入与本土市场跨区域投资",
+      "sourceName": "经济管理",
+      "author": "刘娟、杨淑珺、赵丽婷",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009003",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009004",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "公共数据开放如何破解企业创新悖论",
+      "sourceName": "经济管理",
+      "author": "贾巧玉、周嘉南、唐曼萍",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009004",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009007",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "多层级研发项目补贴与企业创新",
+      "sourceName": "经济管理",
+      "author": "孟秀兰、金通",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009007",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
@@ -989,174 +1083,6 @@
       "publishedAt": "2026-08-01",
       "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004016&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004016",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008001",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "从资本混合到能力共生：国有企业后混改期整合的理论框架与治理工具",
-      "sourceName": "经济管理",
-      "author": "胡叶琳、何瑛",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008001",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008002",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "数字政府建设与民生福祉提升",
-      "sourceName": "经济管理",
-      "author": "李建发、左祥太",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008002",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008003",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "地方人才发展产业聚焦与新质生产力发展——基于政府注意力视角",
-      "sourceName": "经济管理",
-      "author": "高中华、林晨",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008003",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008004",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "国有企业供应链嵌入与民营企业关键核心技术创新",
-      "sourceName": "经济管理",
-      "author": "杜媛、狄盈馨",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008004",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008005",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "行业“内卷式”竞争与企业并购",
-      "sourceName": "经济管理",
-      "author": "黄志宏、王彩萍、张家豪",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008005",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008006",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "价值链数字化的绿色效应——基于出口贸易隐含碳视角",
-      "sourceName": "经济管理",
-      "author": "李小平、徐志鹏、姚子佳",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008006",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008007",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "AI人才吸纳对企业关键核心技术突破的影响研究",
-      "sourceName": "经济管理",
-      "author": "陈东晖",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008007",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008008",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "制度性基础设施与制造业企业数据资产化战略——数据交易所设立的经验证据",
-      "sourceName": "经济管理",
-      "author": "郭晓川、陈优、谢家平",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008008",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjgl2026008009",
-      "sourceKey": "economic-management",
-      "itemType": "paper",
-      "title": "影响者营销战略的研究进展与未来展望",
-      "sourceName": "经济管理",
-      "author": "张闯、斯浩伦",
-      "issue": "2026年 第8期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026008009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026008009",
       "category": "企业管理",
       "tags": [
         "企业管理",
