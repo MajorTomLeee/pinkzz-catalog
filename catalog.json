@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T04:02:23.983Z",
+  "generatedAt": "2026-11-05T13:39:56.697Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -12,7 +12,7 @@
     {
       "sourceKey": "economic-management",
       "ok": true,
-      "count": 5,
+      "count": 10,
       "issue": "2026年 第9期"
     },
     {
@@ -295,6 +295,44 @@
       "rightsStatus": "source_download"
     },
     {
+      "id": "ncp-jjgl2026009005",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "企业“走出去”何以驱动颠覆性创新——基于创新风险感知的机制研究",
+      "sourceName": "经济管理",
+      "author": "李天一、陈晓宇、张玄逸",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009005",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009006",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "人工智能应用与专精特新企业全要素生产率",
+      "sourceName": "经济管理",
+      "author": "周祥玉、张明志、逯启萍",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009006",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
       "id": "ncp-jjgl2026009007",
       "sourceKey": "economic-management",
       "itemType": "paper",
@@ -305,6 +343,63 @@
       "publishedAt": "2026-09-01",
       "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
       "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009007",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009008",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "上云上平台可以增强企业市场势力吗——基于供应链优化与升级的视角",
+      "sourceName": "经济管理",
+      "author": "王欣然、张浩天",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009008",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009009",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "人工智能应用如何提升企业内部控制有效性——基于信息披露与外部监督视角",
+      "sourceName": "经济管理",
+      "author": "王晨曦、李兆荣、柏培文",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009009",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjgl2026009010",
+      "sourceKey": "economic-management",
+      "itemType": "paper",
+      "title": "制造业企业出海中突破低端认知锁定的制度逻辑平衡策略",
+      "sourceName": "经济管理",
+      "author": "杜晶晶、许雪萍、郝喜玲",
+      "issue": "2026年 第9期",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJGL2026009010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJGL2026009010",
       "category": "企业管理",
       "tags": [
         "企业管理",
