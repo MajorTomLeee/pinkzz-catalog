@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T00:57:30.973Z",
+  "generatedAt": "2026-11-10T13:54:36.502Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
       "sourceKey": "cn-rural-economy",
       "ok": true,
       "count": 9,
-      "issue": "2026年 第9期"
+      "issue": "2026年 第10期"
     },
     {
       "sourceKey": "economic-management",
@@ -30,8 +30,8 @@
     {
       "sourceKey": "world-economy",
       "ok": true,
-      "count": 8,
-      "issue": "2026年 第9期"
+      "count": 6,
+      "issue": "2026年 第10期"
     },
     {
       "sourceKey": "financial-research",
@@ -49,150 +49,166 @@
       "sourceKey": "china-economic-quarterly",
       "ok": true,
       "count": 16,
-      "issue": "2026年 第4期"
+      "issue": "2026年 第5期"
     }
   ],
   "items": [
     {
-      "id": "ncp-zgncjj2026009001",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005001",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "深化农村集体产权制度改革中的三次分配体系构建研究",
-      "sourceName": "中国农村经济",
-      "author": "许中缘、肖佳欣、夏沁",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009001",
-      "category": "农商管理",
+      "title": "增值税税率统一的产出效应和福利效应——基于生产网络一般均衡模型的量化评估",
+      "sourceName": "经济学（季刊）",
+      "author": "麦东仁、余靖雯、张乐音",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005001",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
-        "三农",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009002",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005002",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "灵活就业对农户生计韧性的影响",
-      "sourceName": "中国农村经济",
-      "author": "朱波、周思彤、商遥、方能胜",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009002",
-      "category": "农商管理",
+      "title": "“营改增”对最优货币政策的影响——基于投入产出结构的视角",
+      "sourceName": "经济学（季刊）",
+      "author": "石峰、庄子罐、龚六堂",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005002",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
-        "三农",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009003",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005003",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "城乡融合发展的居民消费促进效应——基于消费能力和消费成本的双重视角",
-      "sourceName": "中国农村经济",
-      "author": "向雪风、牛耕",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009003",
-      "category": "农商管理",
+      "title": "政府欠款清理、流动性约束缓解与非农就业提升",
+      "sourceName": "经济学（季刊）",
+      "author": "肖鹏、刘浩",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005003",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009004",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005004",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "平台经济发展助推实数深度融合的机制与效应研究",
-      "sourceName": "中国农村经济",
-      "author": "屠西伟、郭朝先",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009004",
-      "category": "农商管理",
+      "title": "外汇市场顺周期行为与跨境资本流动宏观审慎政策框架",
+      "sourceName": "经济学（季刊）",
+      "author": "罗融、王升泉",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005004",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009005",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005005",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "数字嵌入下乡土社会资本重构如何驱动脱贫地区创业——基于网红直播“大篷车”的分析",
-      "sourceName": "中国农村经济",
-      "author": "蒋子燕、汤临佳、赖惠能",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009005",
-      "category": "农商管理",
+      "title": "西进之路：交通基础设施、港口连通与加工贸易梯度转移",
+      "sourceName": "经济学（季刊）",
+      "author": "戴觅、秦川乂",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005005",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009006",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005006",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "迈向共生：城乡融合发展背景下县域生态治理的实践进路",
-      "sourceName": "中国农村经济",
-      "author": "王宾",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009006",
-      "category": "农商管理",
+      "title": "中国资本市场反馈效应研究——基于公司设定业绩目标的证据",
+      "sourceName": "经济学（季刊）",
+      "author": "何贵华、张新一、周茜",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005006",
+      "category": "资本市场",
       "tags": [
-        "农商管理",
+        "资本市场",
+        "资本市场",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009007",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005007",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "乡村女性推动传统农业系统可持续发展的逻辑",
-      "sourceName": "中国农村经济",
-      "author": "谭淑豪、杨悦、王钰瑶",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009007",
-      "category": "农商管理",
+      "title": "隐性消费空间扩张如何影响居民消费",
+      "sourceName": "经济学（季刊）",
+      "author": "张学良、易金彪、杨羊",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005007",
+      "category": "企业管理",
       "tags": [
-        "农商管理",
-        "三农",
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009008",
-      "sourceKey": "cn-rural-economy",
+      "id": "ncp-jjxjk2026005008",
+      "sourceKey": "china-economic-quarterly",
       "itemType": "paper",
-      "title": "中国水资源税改革如何影响企业节水履责：基于绿色采购的需求侧引导机制研究",
-      "sourceName": "中国农村经济",
-      "author": "张翼飞、张欢、黄保聪",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009008",
+      "title": "环境监管科技化的污染治理效应",
+      "sourceName": "经济学（季刊）",
+      "author": "李晓溪、钟勍儿、张睿敏",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005008",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005009",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "独角兽企业、居民预期与消费提振",
+      "sourceName": "经济学（季刊）",
+      "author": "宋弘、雷桦、吴茂华",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005009",
       "category": "企业管理",
       "tags": [
         "企业管理",
@@ -202,19 +218,412 @@
       "rightsStatus": "source_download"
     },
     {
-      "id": "ncp-zgncjj2026009009",
+      "id": "ncp-jjxjk2026005010",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "分析师研报文本偏离与资本市场定价效率——基于上市公司公告解读的证据",
+      "sourceName": "经济学（季刊）",
+      "author": "冯旭南、刘恒源",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005010",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005011",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "供应链视角下绿色债券发行的溢出效应研究",
+      "sourceName": "经济学（季刊）",
+      "author": "陈震、阳艳梅、罗荣华",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005011&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005011",
+      "category": "资本市场",
+      "tags": [
+        "资本市场",
+        "资本市场",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005012",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "保研夏令营开营时间选择的理论分析",
+      "sourceName": "经济学（季刊）",
+      "author": "宋瑾、谭志斌、曹志刚",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005012&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005012",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005013",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "数据保护规制滥用的实现机制与福利效果",
+      "sourceName": "经济学（季刊）",
+      "author": "侯泽敏、綦勇",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005013&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005013",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005014",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "“人地错配”及成因——对220个城市总体规划的实证研究",
+      "sourceName": "经济学（季刊）",
+      "author": "左翔、胡海洋、王培铭",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005014&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005014",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005015",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "对外开放对中国社会偏好转型的影响——以取名模式为例",
+      "sourceName": "经济学（季刊）",
+      "author": "黄玖立、黎德福",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005015&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005015",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-jjxjk2026005016",
+      "sourceKey": "china-economic-quarterly",
+      "itemType": "paper",
+      "title": "淡化GDP考核促进地方产业政策绩效——基于地级市政府工作报告的实证分析",
+      "sourceName": "经济学（季刊）",
+      "author": "戴宏伟、郑立晨、王佳宁",
+      "issue": "2026年 第5期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026005016&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026005016",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010001",
       "sourceKey": "cn-rural-economy",
       "itemType": "paper",
-      "title": "“省直管县”财政改革影响城商行信用风险吗——基于同业负债的视角",
+      "title": "健全乡村振兴多元投入格局的理论逻辑与实现路径——基于政府和市场协同视角",
       "sourceName": "中国农村经济",
-      "author": "李一花、骆熙",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026009009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026009009",
+      "author": "黄惠春、陈佳敏",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010001",
       "category": "农商管理",
       "tags": [
         "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010002",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "党建引领乡村环境内源式治理的实践逻辑——以浙江省“千万工程”三个样板村为例",
+      "sourceName": "中国农村经济",
+      "author": "张鹏月、王海芝、赵月枝、马荟",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010002",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010003",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "“人工智能+”对农业绿色全要素生产率的影响——来自电商平台农业智能化设备销售数据的证据",
+      "sourceName": "中国农村经济",
+      "author": "彭馨、王源、李佳珈",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010003",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010004",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "农业产业园促进小农户融入数字化供应链：协同机制与制度逻辑",
+      "sourceName": "中国农村经济",
+      "author": "刘晨欢、王月、于晓华、阮俊虎",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010004",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010005",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "农村集体产权制度改革能否改善农村生产性公共品供给",
+      "sourceName": "中国农村经济",
+      "author": "饶清玲、钱龙",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010005",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010006",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "宅基地确权对农村劳动力迁移的影响",
+      "sourceName": "中国农村经济",
+      "author": "郝含涛、郑淋议、钱文荣",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010006",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010007",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "东西部协作县域结对帮扶的农民共同富裕效应",
+      "sourceName": "中国农村经济",
+      "author": "吕光明、宫晓芹、孙伯驰",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010007",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010008",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "中央企业参与乡村振兴的可持续内生动力与逻辑",
+      "sourceName": "中国农村经济",
+      "author": "赵浩华",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010008",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-zgncjj2026010009",
+      "sourceKey": "cn-rural-economy",
+      "itemType": "paper",
+      "title": "卫生与植物检疫监管距离对农业全球价值链参与的影响",
+      "sourceName": "中国农村经济",
+      "author": "董银果、周心怡、张琳琛",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=ZGNCJJ2026010009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=ZGNCJJ2026010009",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010001",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "中国国际进口博览会的溢出效应研究",
+      "sourceName": "世界经济",
+      "author": "何欢浪、毛健、陆毅",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010001",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010002",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "历史文化创造性转化、产业转型升级与乡村绿色发展",
+      "sourceName": "世界经济",
+      "author": "杨冕、谢泽宇、叶初升",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010002",
+      "category": "农商管理",
+      "tags": [
+        "农商管理",
+        "三农",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010003",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "政府采购能否促进“专精特新”中小企业强链塑链",
+      "sourceName": "世界经济",
+      "author": "曹畅、武威",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010003",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010004",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "人工智能专利首发竞赛中的逆境突破：失败何以激励创新",
+      "sourceName": "世界经济",
+      "author": "王嘉鑫、袁雪、伍桂林、侯文慧",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010004",
+      "category": "AI与组织",
+      "tags": [
+        "AI与组织",
+        "数字化",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010005",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "劳动司法保障与民营企业高质量创新",
+      "sourceName": "世界经济",
+      "author": "马皓巍、潘锐、冯帆",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010005",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
+        "企业管理",
+        "最新一期"
+      ],
+      "rightsStatus": "source_download"
+    },
+    {
+      "id": "ncp-sjjj2026010006",
+      "sourceKey": "world-economy",
+      "itemType": "paper",
+      "title": "出口管制、技术脱钩与人才培养：来自中国高考的证据",
+      "sourceName": "世界经济",
+      "author": "刘博聪、李磊、王凯璇",
+      "issue": "2026年 第10期",
+      "publishedAt": "2026-10-01",
+      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026010006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
+      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026010006",
+      "category": "企业管理",
+      "tags": [
+        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
@@ -735,452 +1144,6 @@
       "category": "资本市场",
       "tags": [
         "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009001",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "高水平对外开放的理论内涵、特色与创新",
-      "sourceName": "世界经济",
-      "author": "洪俊杰",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009001",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009002",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "免签政策与外商直接投资：来自企业注册数据的证据",
-      "sourceName": "世界经济",
-      "author": "田毕飞、曾润龙、唐银山",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009002",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009003",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "“共享共赢”：基于共享供应商的FDI溢出效应研究",
-      "sourceName": "世界经济",
-      "author": "严兵、吴琦琦",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009003",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009004",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "量价混合还是数量淡出：中国货币政策框架转型研究",
-      "sourceName": "世界经济",
-      "author": "张成思、廖闻亭、韩杨",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009004",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009005",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "统一监管与债券市场高质量发展：来自债市执法改革的证据",
-      "sourceName": "世界经济",
-      "author": "辛格、王伟同、龙周宏",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009005",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009006",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "地方化债组合政策与资本市场反馈",
-      "sourceName": "世界经济",
-      "author": "聂婧、李永友",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009006",
-      "category": "资本市场",
-      "tags": [
-        "资本市场",
-        "资本市场",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009007",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "耐用品价格补贴与家庭消费行为：家电以旧换新的证据",
-      "sourceName": "世界经济",
-      "author": "张庆、宋弘、李云鹏、楼平易",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009007",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-sjjj2026009008",
-      "sourceKey": "world-economy",
-      "itemType": "paper",
-      "title": "网间互联质量与合作创新：来自新增骨干直联点的证据",
-      "sourceName": "世界经济",
-      "author": "王天尧",
-      "issue": "2026年 第9期",
-      "publishedAt": "2026-09-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=SJJJ2026009008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=SJJJ2026009008",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004001",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "数据收集、个性化定价与企业创新激励",
-      "sourceName": "经济学（季刊）",
-      "author": "尹振东、马昕、寇宗来",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004001&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004001",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004002",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "税负公平促进资源配置效率提升——基于征纳联系视角",
-      "sourceName": "经济学（季刊）",
-      "author": "赵仁杰、钟世虎、杜诚、霍宇辰",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004002&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004002",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004003",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "工业自动化、收入差距与劳动力跨区域流动的一般均衡模型",
-      "sourceName": "经济学（季刊）",
-      "author": "周大勇、杨光",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004003&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004003",
-      "category": "AI与组织",
-      "tags": [
-        "AI与组织",
-        "数字化",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004004",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "企业对高新技术企业多维认定条件的响应——经验分析与政策优化",
-      "sourceName": "经济学（季刊）",
-      "author": "鄢伟波、叶菁菁、刘若鸿",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004004&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004004",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004005",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "税制改革与地区产业发展——基于城市群“中心-外围”的视角",
-      "sourceName": "经济学（季刊）",
-      "author": "陶新宇、马光荣、杨曦、张志铭",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004005&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004005",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004006",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "阅读资源供给、家长教师干预与乡村教育发展——基于一项大规模田野实验的证据",
-      "sourceName": "经济学（季刊）",
-      "author": "张书怀、李学楠、刘潇、郑博文、朱睿",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004006&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004006",
-      "category": "农商管理",
-      "tags": [
-        "农商管理",
-        "三农",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004007",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "科研机构采购助力企业技术突破",
-      "sourceName": "经济学（季刊）",
-      "author": "罗挺威、林建浩、王茂森",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004007&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004007",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004008",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "生态污染协同治理会导致边界污染再转移吗？",
-      "sourceName": "经济学（季刊）",
-      "author": "宋德勇、汪涌",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004008&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004008",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004009",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "“一带一路”基础设施建设的生态效应评估——来自中老铁路的经验证据",
-      "sourceName": "经济学（季刊）",
-      "author": "杨冕、麦展铭、谢泽宇",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004009&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004009",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004010",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "贸易开放影响二氧化碳排放——来自中国出口企业的证据",
-      "sourceName": "经济学（季刊）",
-      "author": "王雅琦、崔晓敏",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004010&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004010",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004011",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "地方财政压力与罚没收入扩张",
-      "sourceName": "经济学（季刊）",
-      "author": "代志新、谢浥好、杨素",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004011&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004011",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004012",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "从拖欠到信任：政府欠款清理如何激发企业家精神",
-      "sourceName": "经济学（季刊）",
-      "author": "向雪风、何雨可、周洋、牛耕",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004012&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004012",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004013",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "为何“小巨人”企业入盒后研发投入上升而创新产出下降？",
-      "sourceName": "经济学（季刊）",
-      "author": "何慧华、陈宁、方军雄",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004013&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004013",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004014",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "移动支付会削弱环境政策效果吗？——基于庇古税凸显性视角下的消费者行为分析",
-      "sourceName": "经济学（季刊）",
-      "author": "祝嘉良、曾咏新、方颖",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004014&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004014",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004015",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "外商投资自由化促进外资企业参与政府采购了吗？——来自《外商投资法》的新证据",
-      "sourceName": "经济学（季刊）",
-      "author": "于淼、李川川、段科宇",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004015&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004015",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
-        "企业管理",
-        "最新一期"
-      ],
-      "rightsStatus": "source_download"
-    },
-    {
-      "id": "ncp-jjxjk2026004016",
-      "sourceKey": "china-economic-quarterly",
-      "itemType": "paper",
-      "title": "中美贸易与美国众议院限制贸易候选议员的选民支持",
-      "sourceName": "经济学（季刊）",
-      "author": "车翼、吕金秋、张燕",
-      "issue": "2026年 第4期",
-      "publishedAt": "2026-08-01",
-      "originalUrl": "https://www.ncpssd.cn/Literature/articleinfo?id=JJXJK2026004016&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&nav=1&langType=1",
-      "downloadUrl": "https://www.ncpssd.cn/Literature/readurl?id=JJXJK2026004016",
-      "category": "企业管理",
-      "tags": [
-        "企业管理",
         "最新一期"
       ],
       "rightsStatus": "source_download"
