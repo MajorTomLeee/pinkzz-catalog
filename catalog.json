@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:08:52.034Z",
+  "generatedAt": "2026-11-11T23:48:02.052Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
@@ -35,10 +35,9 @@
     },
     {
       "sourceKey": "financial-research",
-      "ok": false,
+      "ok": true,
       "count": 11,
-      "issue": "2026年 第7期",
-      "error": "fetch_403"
+      "issue": "2026年 第7期"
     },
     {
       "sourceKey": "public-finance-research",
