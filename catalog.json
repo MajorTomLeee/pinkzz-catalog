@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T03:37:16.332Z",
+  "generatedAt": "2026-11-16T14:15:54.639Z",
   "provider": "国家哲学社会科学文献中心公开期刊目录",
   "status": [
     {
       "sourceKey": "cn-rural-economy",
-      "ok": true,
+      "ok": false,
       "count": 9,
-      "issue": "2026年 第10期"
+      "issue": "2026年 第10期",
+      "error": "parse_empty_35026_untitled"
     },
     {
       "sourceKey": "economic-management",
@@ -17,15 +18,17 @@
     },
     {
       "sourceKey": "accounting-research",
-      "ok": true,
+      "ok": false,
       "count": 14,
-      "issue": "2026年 第7期"
+      "issue": "2026年 第7期",
+      "error": "parse_empty_39017_untitled"
     },
     {
       "sourceKey": "economic-research",
-      "ok": true,
+      "ok": false,
       "count": 11,
-      "issue": "2026年 第9期"
+      "issue": "2026年 第9期",
+      "error": "parse_empty_38237_untitled"
     },
     {
       "sourceKey": "world-economy",
@@ -35,9 +38,10 @@
     },
     {
       "sourceKey": "financial-research",
-      "ok": true,
+      "ok": false,
       "count": 11,
-      "issue": "2026年 第7期"
+      "issue": "2026年 第7期",
+      "error": "parse_empty_34537_untitled"
     },
     {
       "sourceKey": "public-finance-research",
@@ -47,9 +51,10 @@
     },
     {
       "sourceKey": "china-economic-quarterly",
-      "ok": true,
+      "ok": false,
       "count": 16,
-      "issue": "2026年 第5期"
+      "issue": "2026年 第5期",
+      "error": "parse_empty_35241_untitled"
     }
   ],
   "items": [
